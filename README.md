@@ -1,2 +1,2 @@
-# ML
-This is the repository which is used for the machine learning.
+# obj-detection
+This repository is used for the Final year project of Engineering.
